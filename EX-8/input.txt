@@ -1,0 +1,6 @@
+/t3 t2 t2
+uminus t2 t2
+print t2
++t1 t3 t4
+print t4
+
